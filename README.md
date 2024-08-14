@@ -1,9 +1,3 @@
-
-Nguyễn Kim Thiện - BIT220145 
-
-Bài kiểm tra LTNC 20% điểm
-
-Project quản lý cơ bản
-
-
-![image](https://github.com/user-attachments/assets/9bd3a41f-3241-4779-b736-2f5a468746e0)
+Trần Trung Đức-BIT220204
+Bài 20% môn Java
+![bandicam 2024-08-14 23-49-35-673](https://github.com/user-attachments/assets/e6a9249e-027b-4483-b041-eeafb6675b03)
